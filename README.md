@@ -31,10 +31,6 @@ I build real-world web applications and automation tools by pairing my problem-s
 *   **Workflow:** Analyzing Client Needs 📋 -> Prompt Engineering ✍️ -> Vibe Coding & Tests & Debugging 🛠️ -> Delivery 🚀
 
 ---
-
-### 📈 Current Focus & Goals
----
-
 ### 📈 Current Focus & Goals
 
 *   🎯 **Connecting with Clients:** Actively looking for my first clients and exciting freelance gigs to build long-term partnerships.
