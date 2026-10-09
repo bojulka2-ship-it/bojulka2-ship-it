@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16255f,50:16a34a&height=180&section=header&text=Hi,%20I'm%20JuBo%20👩‍💻&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&random=false&width=560&lines=Vibe+Coder+%C2%B7+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0;%D0%A1%D0%B0%D0%B9%D1%82%D1%8B+%C2%B7+%D0%B1%D0%BE%D1%82%D1%8B+%C2%B7+%D0%B2%D0%B5%D0%B1-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B;%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B7%D0%B0+2+-+3+%D0%B4%D0%BD%D1%8F%2C+%D0%B0+%D0%BD%D0%B5+%D0%B7%D0%B0+3+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8)](https://github.com/bojulka2-ship-it)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&random=false&width=560&lines=Vibe+Coder+%C2%B7+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0;%D0%A1%D0%B0%D0%B9%D1%82%D1%8B+%C2%B7+%D0%B1%D0%BE%D1%82%D1%8B+%C2%B7+%D0%B2%D0%B5%D0%B1-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B;%D0%9B%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3+%D0%B7%D0%B0+2%E2%80%933+%D0%B4%D0%BD%D1%8F%2C+%D0%B0+%D0%BD%D0%B5+%D0%B7%D0%B0+3+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8)](https://github.com/bojulka2-ship-it)
 
 </div>
 
