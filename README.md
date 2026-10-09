@@ -9,20 +9,43 @@
 
 </div>
 
-## 🌸 Обо мне
+# Hi there, I'm JuBo 👨‍💻✨
+### 🚀 Aspiring Vibe Coder & AI-Driven Developer
 
-```yaml
-имя: Юлия Бо
-роль: Начинающий вайб-кодер
-девиз: «Идея есть — остальное приложится»
-сейчас: изучаю инструменты веб-разработки
-энергия: 200% любопытства ⚡
-```
+I build real-world web applications and automation tools by pairing my problem-solving mindset with cutting-edge AI instruments. Currently focusing on building practical, client-ready projects inspired by real freelance market demands.
 
-- 🌱 Осваиваю **HTML, CSS и JavaScript** — шаг за шагом
-- 🤖 Практикую **вайб-кодинг**: превращаю идеи в проекты вместе с ИИ
-- 🔥 Верю, что начать никогда не поздно, а ошибки — часть пути
-- 🎯 Цель: собрать портфолио, которым можно гордиться
+---
+
+### 💼 What I’m Building (Freelance-Ready Projects)
+
+*   **E-Commerce & Landing Pages:** Responsive, high-converting web pages.
+*   **Automation Scripts:** Web scrapers, data parsers, and API integrations.
+*   **Web Apps:** Full-stack MVPs (Minimum Viable Products) built at double the speed.
+
+---
+
+### 🛠️ My AI-Assisted Stack
+
+*   **AI Companions:** Open Code | ChatGPT|Z.ai| Qwen| DeepSeek
+*   **Frontend / Backend:** HTML5 & CSS3 | JavaScript | Python (for automation & backend)
+*   **Workflow:** Analyzing Client Needs 📋 -> Prompt Engineering ✍️ -> Vibe Coding & Tests & Debugging 🛠️ -> Delivery 🚀
+
+---
+
+### 📈 Current Focus & Goals
+---
+
+### 📈 Current Focus & Goals
+
+*   🎯 **Connecting with Clients:** Actively looking for my first clients and exciting freelance gigs to build long-term partnerships.
+*   💡 **Solving Business Pain Points:** Helping clients solve their problems by delivering high-quality, cost-effective, and fast solutions using AI-driven development.
+*   🧠 **Skill Amplification:** Mastering advanced prompt engineering and system architectures to turn complex client ideas into reality.
+*   💼 **Portfolio Building:** Expanding this GitHub space with production-grade, freelance-ready case studies.
+
+---
+
+
+
 
 ## 🛠 Мой путь в разработке
 
@@ -66,7 +89,7 @@
 
 ## 📫 Как со мной связаться
 
-<a href="mailto:yulia@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:deitjuly@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/yulia_bo"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/bojulka2-ship-it"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
