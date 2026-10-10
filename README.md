@@ -27,10 +27,10 @@ I build real-world web projects by pairing a problem-solving mindset with AI too
 
 | Проект | Что внутри | Срок |
 |--------|-----------|------|
-| [🛠 kanban-production](https://github.com/bojulka2-ship-it/kanban-production) | Канбан-доска и трекер задач: вход и роли, перемещение задач, комментарии, «Мои задачи», фильтры. PHP 8.4 · Laravel 12 · SQLite · PHPUnit | 7 дней |
-| [🚛 mosevak24](https://github.com/bojulka2-ship-it/mosevak24) | Сайт службы эвакуации: калькулятор стоимости, форма заявки, политика ПД | 2 дня |
-| [🥗 Nutritionist Anna Vetova](https://github.com/bojulka2-ship-it/Nutritionist_Anna_Vetova_demo) | Лендинг нутрициолога: заявки на консультацию собираются в Google Таблицу через Apps Script | 2 дня |
-| [🎓 Repetitor](https://github.com/bojulka2-ship-it/Repetitor) | Лендинг репетитора английского: сбор заявок на пробное занятие, PHP-форма, согласие по 152-ФЗ | 2 дня |
+| [🛠 kanban-production](https://kanban-production-production.up.railway.app/login) | Канбан-доска и трекер задач: вход и роли, перемещение задач, комментарии, «Мои задачи», фильтры. PHP 8.4 · Laravel 12 · SQLite · PHPUnit | 7 дней |
+| [🚛 mosevak24](https://bojulka2-ship-it.github.io/mosevak24) | Сайт службы эвакуации: калькулятор стоимости, форма заявки, политика ПД | 2 дня |
+| [🥗 Nutritionist Anna Vetova](https://bojulka2-ship-it.github.io/Nutritionist_Anna_Vetova_demo) | Лендинг нутрициолога: заявки на консультацию собираются в Google Таблицу через Apps Script | 2 дня |
+| [🎓 Repetitor](https://bojulka2-ship-it.github.io/Repetitor) | Лендинг репетитора английского: сбор заявок на пробное занятие, PHP-форма, согласие по 152-ФЗ | 2 дня |
 | [🎤 Conference Redesign](https://github.com/bojulka2-ship-it/Conference_landing_page_redesign) | Редизайн лендинга IT-конференции: обратный отсчёт, билеты, форма с валидацией, тёмная тема, работает офлайн без CDN | 2 дня |
 
 🤖 Готовятся к публикации: **чат-бот «Вера»** для сообщества конференции CIO Prom Day (база знаний, регистрация участников, напоминания — 5 дней) и **калькулятор стоимости бытовок и хозблоков на Python** (цены из Excel → заявки в Excel — 2 дня).
